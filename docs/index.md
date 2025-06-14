@@ -5,6 +5,6 @@
 
 [![codecov](https://codecov.io/gh/danielgrzenda/nn-learn/graph/badge.svg?token=VYZSQ0JMXG)](https://codecov.io/gh/danielgrzenda/nn-learn)
 [![Commit activity](https://img.shields.io/github/commit-activity/m/danielgrzenda/nn-learn)](https://img.shields.io/github/commit-activity/m/danielgrzenda/nn-learn)
-[![License](https://img.shields.io/github/license/danielgrzenda/nn-learn)](https://img.shields.io/github/license/danielgrzenda/nn-learn)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A repo for learning neural networks from scratch
