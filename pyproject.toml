@@ -17,6 +17,11 @@ classifiers = [
     "Programming Language :: Python :: 3.13",
     "Topic :: Software Development :: Libraries :: Python Modules",
 ]
+dependencies = [
+    "graphviz>=0.20.3",
+    "matplotlib>=3.9.4",
+    "numpy>=2.0.2",
+]
 
 [project.urls]
 Homepage = "https://danielgrzenda.github.io/nn-learn/"
